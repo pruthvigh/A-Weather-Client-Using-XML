@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/CompTypeType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/DisplayLevelType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/FeatureTypeType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/FormatType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/ProductType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/SectorType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/UnitType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/schema/DWML_xsd/WeatherParametersType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXML.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLBindingStub.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLLocator.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLPortType.java=UTF-8
