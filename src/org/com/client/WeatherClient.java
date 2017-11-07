@@ -1,6 +1,6 @@
 /*
  * A Weather Client using XML
- * Name: Pruthvi Raju Muthyam ID: 1001400715, Spring 17
+ * Name: Pruthvi Raj Muthyam ID: 1001400715, Spring 17
  * CSE 5306 Lab #3
  * 
  * Weather Client which takes latitude and longitude as inputs and displays 
